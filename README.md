@@ -19,7 +19,7 @@ My first Python project — Snake Game built using Pygame 🐍🎮
 ```bash
 pip install pygame
 python snake_game.py
-
+```
 
 
 ## 👩‍💻 Developer
